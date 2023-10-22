@@ -1,2 +1,2 @@
-# gRPC_Assignment_DS
+# gRPC assignment 
 GRPC with database backend
